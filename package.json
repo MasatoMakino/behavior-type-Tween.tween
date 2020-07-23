@@ -1,0 +1,15 @@
+{
+  "name": "behavior-type-Tween.tween",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://MasatoMakino@github.com/MasatoMakino/behavior-type-Tween.tween.git",
+  "author": "MasatoMakino <unagiinu.g@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@tweenjs/tween.js": "18.6.0",
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "tsc": "tsc src/TestTypeOfTween.ts --esModuleInterop"
+  }
+}
