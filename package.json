@@ -6,10 +6,10 @@
   "author": "MasatoMakino <unagiinu.g@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@tweenjs/tween.js": "18.6.0",
-    "typescript": "^3.9.7"
+    "@tweenjs/tween.js": "18.6.4",
+    "typescript": "^4.0.3"
   },
   "scripts": {
-    "tsc": "tsc src/TestTypeOfTween.ts --esModuleInterop"
+    "tsc": "tsc src/TestTypeOfTween.ts"
   }
 }
